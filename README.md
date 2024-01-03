@@ -1,4 +1,4 @@
 # SQLBasics - Personal Repository
-Bine ați venit la repository-ul meu personal "SQLBasics". Acest spațiu este dedicat stocării și organizării scripturilor și exercițiilor SQL
-# Conținutul Repository-ului
-Aici voi stoca diverse scripturi SQL pe care le-am creat sau le-am modificat pentru a-mi îmbunătăți abilitățile în lucrul cu baze de date.
+Welcome to my personal "SQLBasics" repository. This space is dedicated to storing and organizing SQL scripts and exercises
+# The contents of the Repository
+Here I will store various SQL scripts that I have created or modified to improve my database skills.
